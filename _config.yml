@@ -1,7 +1,7 @@
 name: Hair By Iwona
 favicon: null
 layout_spectrum: 0.68412
-typography_spectrum: 0.40493
+typography_spectrum: 0.49639
 title: Hair By Iwona - Clitheroe
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.48836819757707417
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5957874634768814
   rhythmicContrast: 1
