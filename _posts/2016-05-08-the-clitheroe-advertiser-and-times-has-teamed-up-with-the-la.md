@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Clitheroe Advertiser and Times has teamed up with the Ladies Room to offer one lucky reader a VIP experience at the highly anticipated opening ceremony of the new salon on 3 October.
-datePublished: '2016-05-08T16:54:11.626Z'
-dateModified: '2016-05-08T16:53:43.603Z'
+datePublished: '2016-05-08T17:05:19.480Z'
+dateModified: '2016-05-08T16:57:25.415Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-the-clitheroe-advertiser-and-times-has-teamed-up-with-the-la.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-the-clitheroe-advertiser-and-times-has-teamed-up-with-the-la.md
 url: the-clitheroe-advertiser-and-times-has-teamed-up-with-the-la/index.html
 _type: Article
 
