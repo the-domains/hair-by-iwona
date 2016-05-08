@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'If you recommend one of your friends to me, I would have the pleasure of giving you £5 off your next service.'
-datePublished: '2016-05-08T16:50:14.761Z'
-dateModified: '2016-05-08T16:49:53.890Z'
+datePublished: '2016-05-08T17:01:19.615Z'
+dateModified: '2016-05-08T16:56:03.256Z'
 title: ''
 author:
   - name: ''
@@ -17,8 +17,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
 sourcePath: _posts/2016-05-08-if-you-recommend-one-of-your-friends-to-me-i-would-have-the.md
+starred: false
 url: if-you-recommend-one-of-your-friends-to-me-i-would-have-the/index.html
 _type: Article
 
